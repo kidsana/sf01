@@ -1,5 +1,5 @@
 <?php
 echo "TEST";
-echo "master 01";
-echo "master 02";
+echo "master dev 01";
+echo "master dev 02";
 ?>
