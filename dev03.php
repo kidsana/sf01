@@ -11,6 +11,4 @@ if (isset($_FILES['uploaded_file'])) {
     exit;
 } else {
     echo "no";
-
-
 ?>
